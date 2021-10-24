@@ -12,7 +12,7 @@ I am Nishtha Kukreti. I am always learning and unlearning..
 
 - Email: nishthakukreti.01@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nishthakukreti0105/
--       
+
 ![Nishtha's Github Stats](https://github-readme-stats.vercel.app/api?username=kukretinishtha)
 
 
