@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**kukretinishtha/kukretinishtha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Nishtha Kukreti. I am always learning and unlearning..
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working in AI Domain.
+- 🌱 I’m currently learning data
+- 👯 I’m looking to collaborate on Machine Learning, DeepLearning, Natural Language Processing,Reinforcement Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+-             Email: nishthakukreti.01@gmail.com
+-             LinkedIn: https://www.linkedin.com/in/nishthakukreti0105/
+-             
+- ⚡ Fun fact: I play Chess
+-             I read 📖 📚
+-             I love to cook 👨‍🍳
+
+![Nishtha's Github Stats](https://github-readme-stats.vercel.app/api?username=kukretinishtha)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kukretinishtha&langs_count=12&layout=compact)](https://github.com/kukretinishtha/github-readme-stats)
