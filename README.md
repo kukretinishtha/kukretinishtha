@@ -18,4 +18,4 @@ I am Nishtha Kukreti. I am always learning and unlearning..
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kukretinishtha&langs_count=12&layout=compact)](https://github.com/kukretinishtha/github-readme-stats)
 
-![Total Visitors](https://komarev.com/ghpvc/?username=your-github-username)
+![Total Visitors](https://komarev.com/ghpvc/?username=kukretinishtha)
