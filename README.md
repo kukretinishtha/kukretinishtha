@@ -8,7 +8,6 @@ I am Nishtha Kukreti. I am always learning and unlearning..
 
 -  I play Chess.
 -  I read 📖 📚
--  I love to cook 👨‍🍳
 
 - Email: nishthakukreti.01@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nishthakukreti0105/
